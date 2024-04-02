@@ -1,4 +1,7 @@
 # React + Vite
+Block 26 Workshop: Contact List
+NETLIFY URL: https://app.netlify.com/sites/hilarious-chimera-501043/deploys/660c4965bb7e3906dae0b5a8
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
